@@ -1,2 +1,0 @@
-/usr/bin/ar qc libmemoryVolume.a  CMakeFiles/memoryVolume.dir/src/main.cpp.o
-/usr/bin/ranlib libmemoryVolume.a

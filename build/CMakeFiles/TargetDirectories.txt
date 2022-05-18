@@ -1,3 +1,0 @@
-/home/c6/Documents/FP_Root/toy/build/CMakeFiles/rebuild_cache.dir
-/home/c6/Documents/FP_Root/toy/build/CMakeFiles/edit_cache.dir
-/home/c6/Documents/FP_Root/toy/build/CMakeFiles/memoryVolume.dir
